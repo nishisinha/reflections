@@ -12,3 +12,7 @@ Fork: when you want work on one's repository which wont allow you to make change
 Clone: You want to work on a repository from github onto your own local machine. Clone it, work and commit.
 
 Branch: you want to add some new feature or fix a big, dont want to do it on main/master branch.
+
+4.What is the benefit of having a copy of the last known state of the remote stored locally?
+
+you can work offline and sync when you get access to remote.
